@@ -49,4 +49,4 @@ The **Schedule I Save File Editor** is a graphical user interface (GUI) tool des
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/N0edL/Schedule-1-Save-Editor.git
+   git clone https://github.com/Iuhify/Schedule-1-Save-Editor.git
